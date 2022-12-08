@@ -169,7 +169,7 @@ const App: React.FC = () => {
         handleDragEnd(e);
       }}
     >
-      <div className='max-w-screen flex min-h-screen flex-col items-center justify-start bg-gray-100 py-12'>
+      <div className='max-w-screen flex min-h-[90vh] flex-col items-center justify-start bg-gray-100 py-12'>
         <div className='container flex w-full flex-col space-y-4 text-center'>
           <h1 className='font-sans text-5xl font-extrabold md:text-8xl'>
             <span className='text-sky-600'>T</span>A
